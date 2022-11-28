@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author UserK
+ *
+ */
+module JavaData {
+}
