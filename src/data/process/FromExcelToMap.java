@@ -47,7 +47,6 @@ public class FromExcelToMap {
 			System.err.println(e);
 		}
 		
-		
 		return map;
 	}
 
